@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swinson1" alt="swinson1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/swinson_" target="blank"><img src="https://img.shields.io/twitter/follow/swinson_?logo=twitter&style=for-the-badge" alt="swinson_" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 👨‍💻 All of my projects are available at [You can also check out my portfolio at https://github.com/swinson1](You can also check out my portfolio at https://github.com/swinson1)
 
 - 📫 How to reach me **swinsonfire@gmail.com**
